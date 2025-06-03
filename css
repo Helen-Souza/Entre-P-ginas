@@ -1,0 +1,61 @@
+p{
+        color: black;
+    }
+
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    body{
+        font-family: Arial, sans-serif;
+        background-color: beige;
+        color: #333;
+    }
+
+    header{
+        background-color: #f3ea9d;
+        color: white;
+        padding: 20px;
+        text-align: center;
+    }
+
+     nav a {
+      margin: 0 10px;
+      color: #ffffff; 
+      text-decoration: none;
+    }
+
+    main{
+        padding: 20px;
+    }
+
+    .livros{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .livro{
+
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        padding: 15px;
+        width: 200px;
+        text-align: center;
+    }
+
+    .livro img{
+        background-color: #3e4a61;
+        color: white;
+        text-align: center;
+        padding: 15px;
+        margin-top: 40px;
+    }
+
+    .metamofose-imagem {
+        width: 150px;
+        height: auto;
+    }
