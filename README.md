@@ -1,2 +1,19 @@
-# Entre-P-ginas
-Entre Páginas é um site dedicado à apresentação e recomendação de livros. O projeto foi desenvolvido com HTML e CSS como forma de praticar e demonstrar conhecimentos em front-end, com um design limpo, responsivo e organizado para oferecer uma boa experiência ao usuário.
+🧩 Funcionalidades:
+Exibição de livros com capa, título e descrição
+
+Layout responsivo
+
+Navegação simples por seções (Início, Categorias, Sobre, Contato)
+
+🚀 Tecnologias utilizadas:
+HTML5
+
+CSS3
+
+📁 Estrutura:
+index.html: página principal com listagem de livros
+
+style.css: folha de estilo personalizada
+
+💡 Objetivo:
+Praticar habilidades em desenvolvimento web e construir um projeto visualmente agradável e funcional, voltado para amantes da leitura.
